@@ -1,0 +1,54 @@
+HTML  --> Hyper text markup language
+                - hyper text --> (LINK)
+
+
+html founder?
+- Tim berner's lee
+
+html 1 --> 1991
+html 2 --> 1995
+html 3 --> (jan , 1997) - failure
+html 4 --> (dec , 1997) - 4.2 --> 2000 
+html 5 --> 2014 - 5.2 --> 2017
+
+
+html introduced : 1993 --> first website --> https://info.cern.ch 
+
+html extension ?
+- .html / .htm
+
+
+what is the use of html?
+- To create a static structure of website or web page.
+
+
+structure of html?
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+
+
+where html run?
+- Browser / Client side
+
+
+C , CPP 
+- server side
+
+
+
+There r two ways to comment
+1. single line comment
+          <!-- this is a single line comment -->
+2. multi line comment
+          <!-- this is a multi line comment 
+              this is a multi line comment
+              this is a multi line comment
+          -->
