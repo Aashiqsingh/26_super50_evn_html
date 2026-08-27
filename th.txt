@@ -56,3 +56,7 @@ There r two ways to comment
 
 For Background image : unsplash.com
 for png image : pngtree.com , pngall.com
+
+
+For deployed
+Netlify , vercel

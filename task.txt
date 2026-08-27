@@ -25,3 +25,7 @@ facebook
 instagram
 snapchat
 twitter
+
+
+Employees Table  -- 10 employee
+Sr  | Name | Age | salary | designation | email 
