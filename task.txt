@@ -29,3 +29,10 @@ twitter
 
 Employees Table  -- 10 employee
 Sr  | Name | Age | salary | designation | email 
+
+
+
+Spotify : with the use of table : 5 singer song
+
+sr no | singer name | song name | singer image | audio
+1  | Arjit  |  Love Me  |  arjit.jpg  | arjit.mp3
